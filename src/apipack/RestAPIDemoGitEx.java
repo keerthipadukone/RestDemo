@@ -37,6 +37,11 @@ public class RestAPIDemoGitEx {
 	{
 		System.out.println("Facebook App");
 	}
+	@Test
+	public void InstaApp() 
+	{
+		System.out.println("Insta App");
+	}
 	
 }
 
