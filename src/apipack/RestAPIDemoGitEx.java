@@ -32,6 +32,11 @@ public class RestAPIDemoGitEx {
 	{
 		System.out.println("Delete twitter");
 	}
+	@Test
+	public void FacebookApp() 
+	{
+		System.out.println("Facebook App");
+	}
 	
 }
 
